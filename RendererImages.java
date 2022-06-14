@@ -6,11 +6,10 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
-// TODO: Auto-generated Javadoc
 /**
  * Stores images to be used in the Renderer module. Also handles scaling of the images.
  *
- * @author Alex Eastlake, 300544079
+ * @author Alex Eastlake
  */
 public class RendererImages {
 	
