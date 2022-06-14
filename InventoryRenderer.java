@@ -9,11 +9,10 @@ import javax.swing.JPanel;
 
 import nz.ac.vuw.ecs.swen225.gp21.domain.*;
 
-// TODO: Auto-generated Javadoc
 /**
  * InventoryRenderer JPanel to display the keys currently held by the player.
  *
- * @author Alex Eastlake, 300544079
+ * @author Alex Eastlake
  */
 @SuppressWarnings("serial")
 public class InventoryRenderer extends JPanel {
