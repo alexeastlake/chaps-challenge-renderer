@@ -8,11 +8,10 @@ import javax.swing.JPanel;
 
 import nz.ac.vuw.ecs.swen225.gp21.domain.*;
 
-// TODO: Auto-generated Javadoc
 /**
  * GameRenderer JPanel to display a 2D representation of the maze.
  *
- * @author Alex Eastlake, 300544079
+ * @author Alex Eastlake
  */
 @SuppressWarnings("serial")
 public class GameRenderer extends JPanel {
