@@ -4,11 +4,10 @@ import java.io.IOException;
 
 import javax.sound.sampled.*;
 
-// TODO: Auto-generated Javadoc
 /**
  * Plays sounds for a GameRenderer.
  *
- * @author Alex Eastlake, 300544079
+ * @author Alex Eastlake
  */
 public class RendererSounds {
 	
